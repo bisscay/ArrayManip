@@ -1,5 +1,4 @@
 # ArrayManip
-1 Task
 C++ program to sort arrays of arbitrary size
 
 ## 1.1 Method
